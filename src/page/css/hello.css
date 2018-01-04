@@ -1,0 +1,14 @@
+.Hello{
+    width: 100%;
+    padding: 20px;
+}
+.lineName1{
+    background-color: blue;
+    color: #fff;
+    font-size: 24px;
+}
+.lineName2{
+    text-align: center;
+    color: #ff5a5f;
+    font-size: 32px;
+}
